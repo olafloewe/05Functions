@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace Assignment_3 {
-    public class Class1 {
+    public class Class3 {
 
             static void Main(string[] args) {
                 int length = 0;

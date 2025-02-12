@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 
 namespace Assignment_2 {
-    public class Class1 {
+    public class Class2 {
         
         static void Main(string[] args) {
             InitiateStyle();
